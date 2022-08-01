@@ -6,7 +6,7 @@
  
  | WEEK N° :pushpin: | TECHNOLOGIES NAME  :computer:| DATES  :calendar: | ACTIVITIES :closed_book: | STATE ACTIVITIES :pencil:
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Week 1 | Introduction to programming & Javascript| <ul><li>- [ ] Tuesday, 19th July, 2022</li><li>- [ ] Wednesday, 20th July, 2022</li><li>- [ ] Thursday, 21th July, 2022</li></ul>|<ul><li>- [ ] Week challenges (Tuesday) </li><li>- [ ] Week challenges (Wednesday)</li><li>- [ ] Week challenges (Thursday)</li></ul> | In progress
+| Week 1 | Introduction to programming & Javascript| <ul><li>- [ ] Tuesday, July 19th, 2022</li><li>- [ ] Wednesday, July 20th, 2022</li><li>- [ ] Thursday, July 21th, 2022</li></ul>|<ul><li>- [ ] Week challenges (Tuesday) </li><li>- [ ] Week challenges (Wednesday)</li><li>- [ ] Week challenges (Thursday)</li></ul> | In progress
 | Week 2 | Javascript |
 | Week 3 | Javascript |
 | Week 4 | Javascript & Pause Day |
