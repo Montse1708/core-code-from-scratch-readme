@@ -6,8 +6,8 @@
  
  | WEEK N° :pushpin: | TECHNOLOGIES NAME  :computer:| DATES  :calendar: | ACTIVITIES :closed_book: | STATE ACTIVITIES :pencil:
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Week 1 | Introduction to programming & Javascript| <ul><li>- [x] [Tuesday, July 19th, 2022](Week1/1.Tuesday.md) </li><li>- [x] [Wednesday, July 20th, 2022](Week1/2.Wednesday.md)</li><li>- [x] [Thursday, July 21th, 2022](Week1/3.Thursday.md)</li></ul>|<ul><li>- [x] [Week challenges (Tuesday)](Week1/1.Tuesday.md) </li><li>- [x] [Week challenges (Wednesday)](Week1/2.Wednesday.md)</li><li>- [x] [Week challenges (Thursday)](Week1/3.Thursday.md)</li></ul> |:heavy_check_mark: Complete  |
-| Week 2 | Javascript 
+| Week 1 | Introduction to programming & Javascript| <ul><li>- [x] [Tuesday, July 19th, 2022](Week1/1.Tuesday.md) </li><li>- [x] [Wednesday, July 20th, 2022](Week1/2.Wednesday.md)</li><li>- [x] [Thursday, July 21th, 2022](Week1/3.Thursday.md)</li></ul>|<ul><li>- [x] [Week challenges (Tuesday)](Week1/1.Tuesday.md) </li><li>- [x] [Week challenges (Wednesday)](Week1/2.Wednesday.md)</li><li>- [x] [Week challenges (Thursday)](Week1/3.Thursday.md)</li></ul> |:white_check_mark: Complete  |
+| Week 2 | Javascript |<ul><li>- [x] [Tuesday, July 26th, 2022](Week2/1.Tuesday.md) </li><li>- [x] [Wednesday, July 27th, 2022](Week2/2.Wednesday.md)</li><li>- [x] [Thursday, July 28th, 2022](Week2/3.Thursday.md)</li></ul>|<ul><li>- [x] [Week challenges (Tuesday)](Week2/1.Tuesday.md) </li><li>- [x] [Week challenges (Wednesday)](Week2/2.Wednesday.md)</li><li>- [x] [Week challenges (Thursday)](Week2/3.Thursday.md)</li></ul> | :arrow_right: In progress 
 | Week 3 | Javascript |
 | Week 4 | Javascript & Pause Day |
 | Week 5 | End Of Month & Typescript |
