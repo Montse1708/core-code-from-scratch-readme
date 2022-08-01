@@ -37,3 +37,13 @@
     Result: <-- Amount * ConvertedValue 
     PRINT Result
     END
+ 
+ <h2>4. Learn about High and Low level languages</h2>
+ 
+    The low-level language is a programming language that provides no abstraction from the hardware, 
+    and it is represented in 0 or 1 forms, which are the machine instructions. The languages that come under 
+    this category are the Machine level language and Assembly language.
+    The high-level language is a programming language that allows a programmer to write the programs which are 
+    independent of a particular type of computer. The high-level languages are considered as high-level because 
+    they are closer to human languages than machine-level languages.
+    When writing a program in a high-level language, then the whole attention needs to be paid to the logic of the problem.
