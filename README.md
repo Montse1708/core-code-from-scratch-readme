@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 
- :star: Hello this is my readme. Here, I will put all the activities during de core code bootcamp.
+ :star: Hello this is my readme. Here, I will put all the activities during the Core Code, Fundamentals bootcamp.
  
  # Activities :notebook_with_decorative_cover:
  
